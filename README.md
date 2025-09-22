@@ -1,4 +1,4 @@
-<h1 align="center"> Myself,👋 Anurag</h1>
+<h1 align="center"> Hello,👋 I'm Anurag</h1>
 <h3 align="center">Machine Learning enthusiast dedicated to transforming data into impactful insights</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanurag2403&label=Profile%20views&color=0e75b6&style=flat" alt="aanurag2403" /> </p>
